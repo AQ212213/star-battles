@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* remove all margin and borders from every object */
+  }
+  
+  html,
+  body {
+    overflow: hidden;
+    /* hide any overflow so scroll bars are not shown */
+  }
+  
+  .webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+
+    /* set position of canvas to top left, and fill the entire screen */
+  }
