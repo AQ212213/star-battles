@@ -1,4 +1,4 @@
-# star-battles
+# Star Battles - An AQA Computer Science A Level Project
 A repository containing my final solution to my AQA A Level Computer Science Project.
 
 Included in these files is all the code required to run the project.
